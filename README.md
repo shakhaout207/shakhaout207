@@ -1,15 +1,9 @@
-<!-- MODERN GRADIENT BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Shakhaout%20Hossain&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20Learner&descAlignY=55&descSize=18" />
-</p>
+<!-- 3D ANIMATED BANNER (NO IMAGE) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Shakhaout+Hossain;Frontend+Developer;React+JS+Learner;Building+Modern+Web+Apps" />
+</h1>
 
----
-
-<h2 align="center">🚀 Building elegant web experiences</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
-</p>
+<h3 align="center">Frontend Developer | React Learner</h3>
 
 ---
 
@@ -19,7 +13,7 @@ I am a passionate frontend developer who loves building modern, responsive, and 
 
 - 🌱 I’m currently exploring **Next.js**
 - 💻 I’m working on a **Tourism Website**
-- ⚡ I enjoy solving problems and learning new technologies
+- ⚡ I enjoy learning new technologies
 
 ---
 
@@ -35,13 +29,7 @@ I am a passionate frontend developer who loves building modern, responsive, and 
 
 <p align="center">
   <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tiktok.com/">
-    <img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok"/>
-  </a>
-  <a href="https://snapchat.com/">
-    <img src="https://img.shields.io/badge/Snapchat-FACC15?style=for-the-badge&logo=snapchat&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -50,28 +38,28 @@ I am a passionate frontend developer who loves building modern, responsive, and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shakahout207&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shakahout207&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakahout207&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Graph (FIXED)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakahout207&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🧠 Fun Dev Card (Like Image Style)
+## 🧠 Developer Card
 
 ```js
 const developer = {
@@ -79,5 +67,5 @@ const developer = {
   role: "Frontend Developer",
   skills: ["HTML", "CSS", "Tailwind", "JavaScript", "React"],
   currentlyLearning: "Next.js",
-  goal: "Build impactful digital experiences"
+  goal: "Build modern and impactful web applications"
 };

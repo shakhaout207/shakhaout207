@@ -1,5 +1,8 @@
 <!-- 3D ANIMATED BANNER (NO IMAGE) -->
 <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=FF6EC7&center=true&vCenter=true&width=700&lines=Shakhaout+Hossain;Frontend+Developer;React+%7C+Next.js+Explorer" />
+</h1>
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Shakhaout+Hossain;Frontend+Developer;React+JS+Learner;Building+Modern+Web+Apps" />
 </h1>
 

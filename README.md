@@ -1,19 +1,18 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile" alt="banner" />
-</p>
+<!-- 3D Typing Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Shakhaout+Hossain;Frontend+Developer;React+JS+Learner;Always+Learning+New+Things" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Shakhaout Hossain</h1>
 <h3 align="center">Frontend Developer | React Learner</h3>
 
 ---
 
 ## 🙋‍♂️ About Me
-I am a passionate frontend developer. Currently I am exploring modern web technologies and improving my skills in React.js. I love building beautiful and responsive websites.
+I am a passionate frontend developer. Currently I am exploring modern web technologies and improving my skills in React.js.
 
 - 🌱 I’m currently exploring **Next.js**
 - 💻 I’m working on a **Tourism Website**
-- ⚡ I enjoy learning new technologies and solving problems
+- ⚡ I love learning new technologies
 
 ---
 
@@ -48,7 +47,7 @@ I am a passionate frontend developer. Currently I am exploring modern web techno
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical" />
 </p>
 
 <p align="center">
@@ -60,7 +59,7 @@ I am a passionate frontend developer. Currently I am exploring modern web techno
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
